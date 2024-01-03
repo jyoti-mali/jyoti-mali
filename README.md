@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <h1>Jyoti Mali</h1>
+~Frontend Developer~
+_nashik_
 
 <!---
 jyoti-mali/jyoti-mali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
